@@ -42,7 +42,7 @@ img {
     width: 100%;
     min-height: 100vh;
     background-image: linear-gradient(rgba(33, 27, 46, 0.795), rgba(17, 9, 41, 0.884)),
-    url(../Images/Img2.jpg);
+    url(../Images/Img1.jpg);
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat;
